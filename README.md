@@ -34,7 +34,7 @@ Formacao_Fullstack/
 │   └── U03_Logica_Programacao_JS/
 │       ├── M01U03A01.md
 │       └── ...
-├── M02_Desenvolvimento_Front_End_Avancado/
+├── M02_Desenvolvimento_Front_End/
 │   ├── U01_JavaScript_DOM/
 │   │   ├── M02U01A01.md
 │   │   └── ...
@@ -174,15 +174,15 @@ Implemente testes unitários e de integração para suas APIs utilizando ferrame
   - [U03 - Lógica de Programação em JavaScript](./M01_Introducao_Desenvolvimento_Web/U03_Logica_Programacao_JS/README.md)
     - [M01U03A01 - Introdução ao JavaScript e Variáveis](./M01_Introducao_Desenvolvimento_Web/U03_Logica_Programacao_JS/M01U03A01.md)
     - ...
-- [M02 - Desenvolvimento Front-End Avançado](./M02_Desenvolvimento_Front_End_Avancado/README.md)
-  - [U01 - JavaScript e DOM](./M02_Desenvolvimento_Front_End_Avancado/U01_JavaScript_DOM/README.md)
-    - [M02U01A01 - Manipulação Avançada do DOM](./M02_Desenvolvimento_Front_End_Avancado/U01_JavaScript_DOM/M02U01A01.md)
+- [M02 - Desenvolvimento Front-End Avançado](./M02_Desenvolvimento_Front_End/README.md)
+  - [U01 - JavaScript e DOM](./M02_Desenvolvimento_Front_End/U01_JavaScript_DOM/README.md)
+    - [M02U01A01 - Manipulação Avançada do DOM](./M02_Desenvolvimento_Front_End/U01_JavaScript_DOM/M02U01A01.md)
     - ...
-  - [U02 - React](./M02_Desenvolvimento_Front_End_Avancado/U02_React/README.md)
-    - [M02U02A01 - Introdução ao React e Configuração do Ambiente](./M02_Desenvolvimento_Front_End_Avancado/U02_React/M02U02A01.md)
+  - [U02 - React](./M02_Desenvolvimento_Front_End/U02_React/README.md)
+    - [M02U02A01 - Introdução ao React e Configuração do Ambiente](./M02_Desenvolvimento_Front_End/U02_React/M02U02A01.md)
     - ...
-  - [U03 - Testes de Frontend com Cypress](./M02_Desenvolvimento_Front_End_Avancado/U03_Testes_Frontend_Cypress/README.md)
-    - [M02U03A01 - Introdução ao Cypress e Configuração do Ambiente](./M02_Desenvolvimento_Front_End_Avancado/U03_Testes_Frontend_Cypress/M02U03A01.md)
+  - [U03 - Testes de Frontend com Cypress](./M02_Desenvolvimento_Front_End/U03_Testes_Frontend_Cypress/README.md)
+    - [M02U03A01 - Introdução ao Cypress e Configuração do Ambiente](./M02_Desenvolvimento_Front_End/U03_Testes_Frontend_Cypress/M02U03A01.md)
     - ...
 - [M03 - Desenvolvimento Back-End](./M03_Desenvolvimento_Back_End/README.md)
   - [U01 - Banco de Dados](./M03_Desenvolvimento_Back_End/U01_Banco_Dados/README.md)
