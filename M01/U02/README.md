@@ -23,17 +23,14 @@ O aprendizado será consolidado em um projeto final que replica uma landing page
 
 ## **Estrutura da Unidade**
 
-A unidade está organizada em **3 aulas de 4 horas cada**, totalizando **12 horas**. Cada aula combina teoria, prática guiada e desenvolvimento de projetos.
+A unidade está organizada em **2 aulas de 4 horas cada**, totalizando **8 horas**. Cada aula combina teoria, prática guiada e desenvolvimento de projetos.
 
 ### **Aulas e Temas Principais**
 
 1. **Introdução ao Bootstrap e Construção de Componentes**  
    - Criação de cards e tabelas responsivas.  
 
-2. **Menus, Ícones e Fontes**  
-   - Desenvolvimento de menus de navegação e integração de bibliotecas de ícones e fontes.  
-
-3. **Projeto de Landing Page**  
+2. **Projeto de Landing Page**  
    - Planejamento e desenvolvimento de uma landing page responsiva, integrando todos os conceitos aprendidos.  
 
 ---
