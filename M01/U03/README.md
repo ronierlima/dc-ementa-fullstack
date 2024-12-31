@@ -26,7 +26,7 @@ O aprendizado será focado na aplicação prática, permitindo que os alunos des
 
 ## **Estrutura da Unidade**
 
-A unidade está organizada em **5 aulas de 4 horas cada**, totalizando **20 horas**. Cada aula combina teoria e prática, com exercícios focados em resolver problemas e construir a lógica de desenvolvimento.
+A unidade está organizada em **6 aulas de 4 horas cada**, totalizando **24 horas**. Cada aula combina teoria e prática, com exercícios focados em resolver problemas e construir a lógica de desenvolvimento.
 
 ### **Aulas e Temas Principais**
 
@@ -46,9 +46,13 @@ A unidade está organizada em **5 aulas de 4 horas cada**, totalizando **20 hora
    - Loops: `for`, `while`, `do...while`.  
    - Iteração em listas e controle de fluxo com `break` e `continue`.  
 
-5. **Arrays e Objetos**  
-   - Introdução a arrays e objetos, métodos básicos e avançados (`map`, `filter`, `reduce`).  
-   - Manipulação de dados em estruturas complexas.  
+5. **Arrays**  
+   - Introdução a arrays, métodos básicos e avançados (`map`, `filter`, `reduce`).  
+   - Manipulação de dados em arrays.  
+
+6. **Objetos e Introdução à Programação Orientada a Objetos (POO)**  
+   - Introdução a objetos, métodos básicos e avançados.  
+   - Conceitos fundamentais da POO e implementação básica em JavaScript.  
 
 ---
 
@@ -61,4 +65,7 @@ A unidade está organizada em **5 aulas de 4 horas cada**, totalizando **20 hora
   As aulas são estruturadas para desenvolver o raciocínio lógico e a capacidade de criar soluções programáticas.  
 
 - **Integração com HTML e CSS:**  
-  Os exemplos e exercícios reforçam a conexão entre JavaScript e as estruturas já aprendidas.
+  Os exemplos e exercícios reforçam a conexão entre JavaScript e as estruturas já aprendidas.  
+
+- **Introdução à POO:**  
+  A unidade culmina com a introdução à Programação Orientada a Objetos, preparando os alunos para abordagens mais avançadas no desenvolvimento web.
