@@ -63,54 +63,6 @@ Cada unidade possui um `README.md` com resumos detalhados das aulas, facilitando
 
 ---
 
-## 📑 **Tabela de Conteúdo**
-
-| Módulo                                       | Unidade                                       | Aula      | Título                                                                | Duração   |
-| -------------------------------------------- | --------------------------------------------- | --------- | --------------------------------------------------------------------- | --------- |
-| **M01 - Introdução ao Desenvolvimento Web**  | **U01 - HTML & CSS**                          | M01U01A01 | Introdução ao HTML e Estruturas Básicas                               | 4h        |
-|                                              |                                               | M01U01A02 | Tabelas e Listas em HTML                                              | 4h        |
-|                                              |                                               | M01U01A03 | Formulários e Introdução ao CSS                                       | 4h        |
-|                                              |                                               | M01U01A04 | Estilização Básica e Seletores CSS                                    | 4h        |
-|                                              |                                               | M01U01A05 | Layouts com Flexbox                                                   | 4h        |
-|                                              | **U02 - Bibliotecas para HTML & CSS**         | M01U02A01 | Introdução ao Bootstrap e Construção de Componentes                   | 4h        |
-|                                              |                                               | M01U02A02 | Projeto de Landing Page                                               | 4h        |
-|                                              | **U03 - Lógica de Programação em JavaScript** | M01U03A01 | Introdução ao JavaScript e Variáveis                                  | 4h        |
-|                                              |                                               | M01U03A02 | Funções em JavaScript                                                 | 4h        |
-|                                              |                                               | M01U03A03 | Estruturas de Controle                                                | 4h        |
-|                                              |                                               | M01U03A04 | Estruturas de Repetição                                               | 4h        |
-|                                              |                                               | M01U03A05 | Arrays                                                                | 4h        |
-|                                              |                                               | M01U03A06 | Objetos e Introdução à POO                                            | 4h        |
-| **M02 - Desenvolvimento Front-End Avançado** | **U01 - JavaScript e DOM**                    | M02U01A01 | Manipulação Avançada do DOM                                           | 4h        |
-|                                              |                                               | M02U01A02 | Eventos e Callbacks no DOM                                            | 4h        |
-|                                              |                                               | M02U01A03 | Consumo de APIs com Promises e Async/Await                            | 4h        |
-|                                              |                                               | M02U01A04 | Armazenamento e Gerenciamento de Estado com `localStorage`            | 4h        |
-|                                              |                                               | M02U01A05 | Projeto Final - Aplicação Completa com Técnicas Avançadas             | 4h        |
-|                                              | **U02 - React**                               | M02U02A01 | Introdução ao React e Configuração do Ambiente                        | 4h        |
-|                                              |                                               | M02U02A02 | Componentes Funcionais e Props                                        | 4h        |
-|                                              |                                               | M02U02A03 | Estado e Hooks Básicos                                                | 4h        |
-|                                              |                                               | M02U02A04 | Manipulação de Eventos e Formulários                                  | 4h        |
-|                                              |                                               | M02U02A05 | Roteamento com React Router                                           | 4h        |
-|                                              |                                               | M02U02A06 | Gerenciamento de Estado com Context API                               | 4h        |
-|                                              |                                               | M02U02A07 | Estilização em React e Integração de Bibliotecas de UI (PrimeReact)   | 4h        |
-|                                              |                                               | M02U02A08 | Projeto Prático em React - Sistema de Cardápio                        | 4h        |
-|                                              | **U03 - Testes de Frontend com Cypress**      | M02U03A01 | Introdução ao Cypress e Configuração do Ambiente                      | 4h        |
-|                                              |                                               | M02U03A02 | Escrevendo e Executando Testes com Cypress                            | 4h        |
-| **M03 - Desenvolvimento Back-End**           | **U01 - Banco de Dados**                      | M03U01A01 | Fundamentos de Banco de Dados, SQL e Primeiras Consultas              | 4h        |
-|                                              |                                               | M03U01A02 | Estrutura de Tabelas, Constraints e Consultas com Filtros e Ordenação | 4h        |
-|                                              |                                               | M03U01A03 | Manipulação de Dados e Consultas com Funções Agregadas                | 4h        |
-|                                              |                                               | M03U01A04 | Consultas Avançadas com Junções (JOIN) e Análise de Relacionamentos   | 4h        |
-|                                              |                                               | M03U01A05 | Projeto Prático Final e Revisão de Consultas                          | 4h        |
-|                                              | **U02 - Node.js**                             | M03U02A01 | [Título da Aula Node.js]                                              | [Duração] |
-|                                              |                                               | ...       | ...                                                                   | ...       |
-|                                              | **U03 - Express.js**                          | M03U03A01 | [Título da Aula Express.js]                                           | [Duração] |
-|                                              |                                               | ...       | ...                                                                   | ...       |
-|                                              | **U04 - Testes Automatizados para APIs**      | M03U04A01 | [Título da Aula Testes Automatizados]                                 | [Duração] |
-|                                              |                                               | ...       | ...                                                                   | ...       |
-
-*Nota: Complete as aulas restantes conforme a necessidade.*
-
----
-
 ## 📖 **Descrição das Unidades**
 
 ### **M01 - Introdução ao Desenvolvimento Web**
@@ -160,46 +112,6 @@ Crie APIs RESTful otimizadas e escaláveis com Express.js, implementando rotas, 
 Implemente testes unitários e de integração para suas APIs utilizando ferramentas como Jest e Supertest, assegurando a confiabilidade e a qualidade do seu código backend.
 
 ---
-
-## 🔗 **Links Úteis**
-
-- [M01 - Introdução ao Desenvolvimento Web](./M01_Introducao_Desenvolvimento_Web/README.md)
-  - [U01 - HTML & CSS](./M01_Introducao_Desenvolvimento_Web/U01_HTML_CSS/README.md)
-    - [M01U01A01 - Introdução ao HTML e Estruturas Básicas](./M01_Introducao_Desenvolvimento_Web/U01_HTML_CSS/M01U01A01.md)
-    - [M01U01A02 - Tabelas e Listas em HTML](./M01_Introducao_Desenvolvimento_Web/U01_HTML_CSS/M01U01A02.md)
-    - ...
-  - [U02 - Bibliotecas para HTML & CSS](./M01_Introducao_Desenvolvimento_Web/U02_Bibliotecas_HTML_CSS/README.md)
-    - [M01U02A01 - Introdução ao Bootstrap e Construção de Componentes](./M01_Introducao_Desenvolvimento_Web/U02_Bibliotecas_HTML_CSS/M01U02A01.md)
-    - ...
-  - [U03 - Lógica de Programação em JavaScript](./M01_Introducao_Desenvolvimento_Web/U03_Logica_Programacao_JS/README.md)
-    - [M01U03A01 - Introdução ao JavaScript e Variáveis](./M01_Introducao_Desenvolvimento_Web/U03_Logica_Programacao_JS/M01U03A01.md)
-    - ...
-- [M02 - Desenvolvimento Front-End Avançado](./M02_Desenvolvimento_Front_End/README.md)
-  - [U01 - JavaScript e DOM](./M02_Desenvolvimento_Front_End/U01_JavaScript_DOM/README.md)
-    - [M02U01A01 - Manipulação Avançada do DOM](./M02_Desenvolvimento_Front_End/U01_JavaScript_DOM/M02U01A01.md)
-    - ...
-  - [U02 - React](./M02_Desenvolvimento_Front_End/U02_React/README.md)
-    - [M02U02A01 - Introdução ao React e Configuração do Ambiente](./M02_Desenvolvimento_Front_End/U02_React/M02U02A01.md)
-    - ...
-  - [U03 - Testes de Frontend com Cypress](./M02_Desenvolvimento_Front_End/U03_Testes_Frontend_Cypress/README.md)
-    - [M02U03A01 - Introdução ao Cypress e Configuração do Ambiente](./M02_Desenvolvimento_Front_End/U03_Testes_Frontend_Cypress/M02U03A01.md)
-    - ...
-- [M03 - Desenvolvimento Back-End](./M03_Desenvolvimento_Back_End/README.md)
-  - [U01 - Banco de Dados](./M03_Desenvolvimento_Back_End/U01_Banco_Dados/README.md)
-    - [M03U01A01 - Fundamentos de Banco de Dados, SQL e Primeiras Consultas](./M03_Desenvolvimento_Back_End/U01_Banco_Dados/M03U01A01.md)
-    - ...
-  - [U02 - Node.js](./M03_Desenvolvimento_Back_End/U02_Node_JS/README.md)
-    - [M03U02A01 - [Título da Aula Node.js]](./M03_Desenvolvimento_Back_End/U02_Node_JS/M03U02A01.md)
-    - ...
-  - [U03 - Express.js](./M03_Desenvolvimento_Back_End/U03_Express_JS/README.md)
-    - [M03U03A01 - [Título da Aula Express.js]](./M03_Desenvolvimento_Back_End/U03_Express_JS/M03U03A01.md)
-    - ...
-  - [U04 - Testes Automatizados para APIs](./M03_Desenvolvimento_Back_End/U04_Testes_Automatizados_APIs/README.md)
-    - [M03U04A01 - [Título da Aula Testes Automatizados]](./M03_Desenvolvimento_Back_End/U04_Testes_Automatizados_APIs/M03U04A01.md)
-    - ...
-
----
-
 ## 🗂️ **Como Navegar**
 
 - **Módulos:** Cada módulo possui uma pasta principal contendo suas unidades e aulas.
