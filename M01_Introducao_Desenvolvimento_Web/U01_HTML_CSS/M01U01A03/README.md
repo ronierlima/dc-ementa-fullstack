@@ -1,0 +1,46 @@
+# **M01U01A03**
+
+## **Aula 3: Formulários e Introdução ao CSS**
+
+### **Tópico da aula/título:**  
+
+Formulários e Introdução ao CSS
+
+### **Objetivos principais da aula:**  
+
+- Ensinar como criar formulários HTML funcionais com diferentes tipos de inputs.  
+- Introduzir os conceitos de estilização com CSS e como aplicá-los ao HTML.  
+- Mostrar como formular a estrutura inicial de páginas com elementos estilizados.  
+
+### **Conteúdo Programático a ser seguido:**  
+
+- **Formulários em HTML:**  
+  - Estrutura básica: `<form>`, `<input>`, `<textarea>`, `<select>`, `<option>`, `<button>`.  
+  - Tipos de inputs: texto, número, senha, data, etc.  
+  - Atributos de formulário: `name`, `placeholder`, `required`, etc.  
+
+- **Introdução ao CSS:**  
+  - O que é CSS e para que serve.  
+  - Métodos de aplicação: inline, interno e externo.  
+  - Criação de um arquivo CSS externo e linkagem ao HTML com `<link>`.  
+
+- **Estilos Básicos com CSS:**  
+  - Propriedades iniciais: cor (`color`), fonte (`font-family`, `font-size`), alinhamento (`text-align`).  
+
+### **O que deverá ser avaliado:**  
+
+- **Compreensão:** Entendimento da estrutura de formulários HTML e da introdução ao CSS.  
+- **Aplicação:** Criação de um formulário funcional e estilizado com propriedades básicas de CSS.  
+
+### **Controle/sugestão de distribuição de tempo:**  
+
+- Introdução teórica (30 min): Explicação sobre formulários e CSS.  
+- Momento prático 1 (1h): Criação de um formulário básico com campos variados.  
+- Momento prático 2 (1h 30 min): Estilização do formulário utilizando CSS básico.  
+- Finalização da aula (30 min): Revisão e discussão dos formulários criados.  
+
+### **Recursos necessários (opcional):**  
+
+- Computadores com um editor de texto instalado (ex.: VS Code).  
+- Navegador web para visualização dos formulários estilizados.  
+- Material de apoio com exemplos de formulários e estilização básica.  
